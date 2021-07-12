@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InaEterovic
 - 👀 I’m interested in Data Science, Data Mining, Web development
-- 🌱 I’m currently learning Angular, Python libraries, tableau
+- 🌱 I’m currently learning Apache Spark, Python, Data streaming
 - 📫 How to reach me Write me to inaeterovic@gmail.com
 
 <!---
